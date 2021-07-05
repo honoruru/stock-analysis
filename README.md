@@ -15,7 +15,7 @@ When the two years are shown graphically, one can better compare 2017 to 2018.
 ![Volume and Returns](https://github.com/honoruru/stock-analysis/blob/main/Volume_Returns%20sideXside.png)
 
 Steve's parents believe that if a stock is traded often (high volume), then the price “will accurately reflect the value of the stock.”
-For their sake, trading volume and returns were overlaid in the graph below.  From their point of view, the more heavily traded stocks are most accurately valued.  While it’s tempting to draw conclusions on the relationship over volume to stock price accuracy, or even returns, this would seem to be simply an exercise in demonstrating graphing skills in Excel. 
+For their sake, trading volume and returns were overlaid in the graph below.  From their point of view, the more heavily traded stocks are most accurately valued.  While it’s tempting to draw conclusions on the relationship of volume to stock price accuracy, or even returns, this would seem to be simply an exercise in demonstrating graphing skills in Excel. 
 
 ![Volume and Return overlaid](https://github.com/honoruru/stock-analysis/blob/main/Volume_Returns.png)
 
