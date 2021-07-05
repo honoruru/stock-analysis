@@ -24,7 +24,7 @@ The final code was an impressive improvement over the initial “looped” code.
 
 ![Timer Comparison](https://github.com/honoruru/stock-analysis/blob/main/Timer%20Comparison.png)
 
-As the processing timer demonstrates, the final code's run time was approximately three-hundredths the original time.  When one considers what would once take 100 days, would now take 3 days.  With the small number of stocks analyzed, the difference wait time is noticeable but not startling.  When considering analyzing the 5,000 or so publicly traded stocks in the U.S., the difference would be waiting for 20 minutes versus 30 seconds.  If you are running the original code, make sure you start it before your smoke break.
+As the processing timer demonstrates, the final code's run time was approximately three-hundredths the original time.  When one considers what would once take 100 days, would now take 3 days, the efficiency gain is tremendous.  With the small number of stocks analyzed, the difference wait time is noticeable but not startling.  When considering analyzing the 5,000 or so publicly traded stocks in the U.S., the difference would be waiting for 20 minutes versus 30 seconds.  If you are running the original code, make sure you start it before your smoke break.
 
 Looking at the original and refactored code side-by-side, one can see that the huge increase in processing efficiency was achieved by three actions:
 1.	Replacement of Nested Loops with multiple Non-nested Loops
@@ -40,9 +40,11 @@ Formatting Code
 ## Summary
 ### Advantages (Pros) of Refactoring the Original VBA Script
 The compelling advantage of refactoring code is the multifold increase in performance.  In our process, performance improved by almost a factor of a hundred. 
+
 Another advantage is that refactoring exploits existing code. That code provides a baseline in performance where one can measure whether improvement was worthwhile.
 
 ### Disadvantages (Cons) of Refactoring the Original VBA Script
 The disadvantage of starting with existing code is one is locked into a previously defined approach.  Refactoring essentially is an attempt to revise the previous code, whether it be the analysis or formatting, in a more efficient way.  There could, in fact, be a more ingenious approach to the coding than the existing code.  But then that would mean starting from scratch. 
+
 One possible disadvantage of eliminating unnecessary code could be that the original code may have been written with the thought of addressing all foreseeable possibilities.  If code is thought to be unnecessary because it appeared to be unused over a certain sample, it might be discovered that it was useful, and necessary when applied to a population or much larger sample. 
 
