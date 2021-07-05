@@ -1,11 +1,11 @@
 # Refactoring in Excel VBA
 ## **Overview of Project**
-The project initially began assist Tom with analyzing a selected stock’s trading value and price over two years.  It evolved into developing an analytical tool capable of analyzing a large number of stocks efficiently.  
+The project initially began to assist Tom with analyzing a selected stock’s trading value and price over two years.  It evolved into developing an analytical tool capable of analyzing a large number of stocks efficiently.  
 ### **Purpose**
 The primary purpose of this project was to progress through the development of a single stock analysis, to analyzing multiple stocks (looping through code previously developed, and then finally through revising the code to efficiently use time and computer resources. 
 ## Results
 ### Comparison of Stock Performance – 2017 to 2018
-The results produced by the Stock Analysis quickly show that the returns for the majority f the stocks analyzed deteriorated, in fact, experiences negative returns based on stock price.  The code’s formatting as Red and Green based on +/- value greatly facilitate identifying negative returns. 
+The results produced by the Stock Analysis quickly show that the returns for the majority of the stocks analyzed deteriorated, in fact, experiences negative returns based on stock price.  The code’s formatting as Red and Green based on +/- value greatly facilitate identifying negative returns. 
 
 ![2017_2018 Results](https://github.com/honoruru/stock-analysis/blob/main/2017_2018%20Results.png)
 
