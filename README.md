@@ -46,5 +46,5 @@ Another advantage is that refactoring exploits existing code. Why re-invent the 
 ### Disadvantages (Cons) of Refactoring the Original VBA Script
 The disadvantage of starting with existing code is one is locked into a previously defined approach.  Refactoring essentially is an attempt to revise the previous code, whether it be the analysis or formatting, in a more efficient way.  There could, in fact, be a more ingenious approach to the coding than the existing code.  But then that would mean starting from scratch. 
 
-One possible disadvantage of eliminating unnecessary code could be that the original code may have been written with the thought of addressing all foreseeable possibilities.  If code is thought to be unnecessary because it appeared to be unused over a certain sample, it might be discovered that it was useful, and necessary when applied to a population or much larger sample. 
+One possible disadvantage of eliminating unnecessary code could be that the original code may have been written with the thought of addressing all foreseeable possibilities.  If code is thought to be unnecessary because it appeared to be unused over a certain sample, it might be discovered that it was useful, and necessary, when applied to a population or much larger sample. 
 
