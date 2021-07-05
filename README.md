@@ -41,7 +41,7 @@ Formatting Code
 ### Advantages (Pros) of Refactoring the Original VBA Script
 The compelling advantage of refactoring code is the multifold increase in performance.  In our process, performance improved by almost a factor of a hundred. 
 
-Another advantage is that refactoring exploits existing code. That code provides a baseline in performance where one can measure whether improvement was worthwhile.
+Another advantage is that refactoring exploits existing code. Why re-invent the wheel?  That code also provides a baseline in performance where one can measure whether improvement was worthwhile.
 
 ### Disadvantages (Cons) of Refactoring the Original VBA Script
 The disadvantage of starting with existing code is one is locked into a previously defined approach.  Refactoring essentially is an attempt to revise the previous code, whether it be the analysis or formatting, in a more efficient way.  There could, in fact, be a more ingenious approach to the coding than the existing code.  But then that would mean starting from scratch. 
