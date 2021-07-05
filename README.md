@@ -23,6 +23,7 @@ For their sake, trading volume and returns were overlaid in the graph below.  Fr
 The final code was an impressive improvement over the initial “looped” code.  
 
 ![Timer Comparison](https://github.com/honoruru/stock-analysis/blob/main/Timer%20Comparison.png)
+
 As the processing timer demonstrates, the final codes’ run time was approximately three-hundredths the original time.  When one considers what would once take 100 days, would not take 3 days.  With the small number of stocks analyzed, the difference wait time is noticeable but not startling.  When considering analyzing the 5,000 or so publicly traded stocks in the U.S., the difference would be waiting for 20 minutes versus 30 seconds.  If you are running the original code, make sure you start it before your smoke break.
 
 Looking at the original and refactored code side-by-side, one can see that the huge increase in processing efficiency was achieved by three actions:
